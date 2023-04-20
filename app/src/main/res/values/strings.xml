@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">Pager Assignment</string>
+
+    <string name="txt_search_here">Search here</string>
+    <string name="txt_no_data_available">No Data Available</string>
+
+</resources>
